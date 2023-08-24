@@ -1,6 +1,5 @@
-# Employee-Management
+#Title: Employee Management System 
+Description: It is used to maintain and to record the details of employees working in an organization. It contains information such as employee id, full name, gender, age, address, contact number etc. In this application, Administrator can search, edit, delete and save records while employee can edit their profile and also, can search for other employee details.
+Technologies: Java, JDBC, MySQL
+Role: Backend Developer
 
- In this project, I have created an Employee Record Management System using Core Java and JDBC. The system
-            will allow users to perform CRUD operations (Create, Read, Update, Delete) on Employee records, including
-            adding new Employee, viewing Employee, updating Employee information, and deleting Employee records from
-            the system.
