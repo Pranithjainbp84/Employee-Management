@@ -19,7 +19,7 @@ Welcome to the Employee Management System repository! This project is aimed at p
 
 ## Setup Instructions
 
-1. **Database Setup**: Use the `schema.sql` file in the `sql/` directory to set up the necessary database schema and tables in MySQL.
+1. **Database Setup**: Use the `employee.sql` file in the  directory to set up the necessary database schema and tables in MySQL.
 
 2. **Java Environment**: Ensure you have Java and a compatible IDE (Eclipse, IntelliJ, etc.) installed.
 
@@ -38,6 +38,13 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 4. Push your changes to your forked repository.
 5. Create a pull request detailing your changes.
 
-   - Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
+ ## Contact
+
+If you have any questions, suggestions, or would like to connect, feel free to reach out:
+
+- Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
 - LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranith-jain-bp-a2704024b/)
 - Twitter: [Pranithjain](https://twitter.com/PranithJain84/)
+
+
+
