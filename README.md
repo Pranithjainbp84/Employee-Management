@@ -37,3 +37,7 @@ Contributions to this project are welcome! If you'd like to contribute, please f
 3. Make your changes and commit them with meaningful messages.
 4. Push your changes to your forked repository.
 5. Create a pull request detailing your changes.
+
+   - Your Name: [Pranithjain](mailto:pranithjainbp84@gmail.com)
+- LinkedIn: [Pranithjain](https://www.linkedin.com/in/pranith-jain-bp-a2704024b/)
+- Twitter: [Pranithjain](https://twitter.com/PranithJain84/)
